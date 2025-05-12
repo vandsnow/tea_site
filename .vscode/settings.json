@@ -1,0 +1,4 @@
+{
+    "chat.experimental.implicitContext": true,
+    "notebook.output.textLineLimit": 500
+}
